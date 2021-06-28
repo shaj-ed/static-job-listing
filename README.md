@@ -12,5 +12,5 @@ Users should be able to:
 
 ## Solutions URL
 
-- [Frontend Mentor]()
+- [Frontend Mentor](https://www.frontendmentor.io/solutions/mobile-first-html5-css-vanillajs-kXBmZUnfV)
 - [Netlify](https://ed-static-job-listing.netlify.app/)
